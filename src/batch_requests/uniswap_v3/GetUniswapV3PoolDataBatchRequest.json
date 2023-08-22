@@ -3648,8 +3648,8 @@
                                                         "referencedDeclaration": 10127,
                                                         "src": "4031:63:3",
                                                         "typeDescriptions": {
-                                                            "typeIdentifier": "t_function_external_view$__$returns$_t_uint160_$_t_int24_$_t_uint16_$_t_uint16_$_t_uint16_$_t_uint8_$_t_bool_$",
-                                                            "typeString": "function () view external returns (uint160,int24,uint16,uint16,uint16,uint8,bool)"
+                                                            "typeIdentifier": "t_function_external_view$__$returns$_t_uint160_$_t_int24_$_t_uint16_$_t_uint16_$_t_uint16_$_t_uint32_$_t_bool_$",
+                                                            "typeString": "function () view external returns (uint160,int24,uint16,uint16,uint16,uint32,bool)"
                                                         }
                                                     },
                                                     "id": 10382,
@@ -3664,8 +3664,8 @@
                                                     "src": "4031:65:3",
                                                     "tryCall": false,
                                                     "typeDescriptions": {
-                                                        "typeIdentifier": "t_tuple$_t_uint160_$_t_int24_$_t_uint16_$_t_uint16_$_t_uint16_$_t_uint8_$_t_bool_$",
-                                                        "typeString": "tuple(uint160,int24,uint16,uint16,uint16,uint8,bool)"
+                                                        "typeIdentifier": "t_tuple$_t_uint160_$_t_int24_$_t_uint16_$_t_uint16_$_t_uint16_$_t_uint32_$_t_bool_$",
+                                                        "typeString": "tuple(uint160,int24,uint16,uint16,uint16,uint32,bool)"
                                                     }
                                                 },
                                                 "nodeType": "VariableDeclarationStatement",
