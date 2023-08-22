@@ -976,17 +976,17 @@
                                     "stateVariable": false,
                                     "storageLocation": "default",
                                     "typeDescriptions": {
-                                        "typeIdentifier": "t_uint8",
-                                        "typeString": "uint8"
+                                        "typeIdentifier": "t_uint32",
+                                        "typeString": "uint32"
                                     },
                                     "typeName": {
-                                        "id": 9817,
-                                        "name": "uint8",
+                                        "id": 9838,
+                                        "name": "uint32",
                                         "nodeType": "ElementaryTypeName",
-                                        "src": "1860:5:2",
+                                        "src": "2256:6:2",
                                         "typeDescriptions": {
-                                            "typeIdentifier": "t_uint8",
-                                            "typeString": "uint8"
+                                            "typeIdentifier": "t_uint32",
+                                            "typeString": "uint32"
                                         }
                                     },
                                     "visibility": "internal"
